@@ -6,13 +6,6 @@
 
 # 🚀 Complete E-commerce Website in Laravel 10
 A full-fledged **eCommerce solution** built on **Laravel 10**, featuring a modern UI, powerful admin panel, seamless payment integration, and a user-friendly shopping experience.
-
----
-
-## 🎥 Live Demo & Tutorials
-🔹 **Setup Video:** [Watch Here](https://www.youtube.com/watch?v=URX5D1A5XQ4&t=19s)
-🔹 **Complete Tutorial Series:** [Watch Now](https://www.youtube.com/watch?v=FdAMucaks64&list=PLIFG3IUe1Zxo8Zvju3_kJJvoKSaIP_SC_&index=1&t=44s)
-
 ---
 
 ## 🌟 Features
@@ -113,8 +106,8 @@ php artisan serve
 ## 📩 Contact Me
 💼 Need a **Full Stack Laravel Developer**? Let's work together!
 
-📧 **Email:** Prajwal.iar@gmail.com  
-📲 **WhatsApp:** +977-9818441226  
+📧 **Email:** ashirvaddubey2002@gmail.com 
+📲 **WhatsApp:** +6387522... 
 
 🔗 **[Hire Me on Upwork](https://www.upwork.com/freelancers/~01210bb2575a8c05a9)**
 
